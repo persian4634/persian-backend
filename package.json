@@ -1,0 +1,14 @@
+{
+  "name": "persian-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Persian shop site: orders, comments, likes, admin login, GitHub content proxy and backups",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
